@@ -1,5 +1,6 @@
 # SB
-##Registering and Login.
+## Registering and Login.
+
 As the person enters the kiosk, a screen appears indicating a login and register options.
 A new user selects the register option, and enters his/her data(name,contact no.,email id.,DOB,etc).Then a new profile is created for the user.
 If the user is not new, he can login with his email id. and DOB as password.The user's login and registrations can be done through database at the back-end.Java Programming language is used at the front-end.
